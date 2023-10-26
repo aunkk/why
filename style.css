@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(247, 222, 227);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img{
+    border: 5px solid rgb(207, 174, 192);
+    display: block;
+    margin: auto;
+}
+
+.content-1{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    background: white;
+    padding: 0px 10px 0px 10px;
+    border-radius: 20px;
+}
+
+.Meow{
+    text-align: center;
+}
